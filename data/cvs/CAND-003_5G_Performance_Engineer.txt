@@ -1,0 +1,27 @@
+Candidate ID: CAND-003
+
+Jonas Weber
+5G Performance Engineer
+Location: Hamburg, Germany
+Email: jonas.weber@example.com
+
+Professional Summary
+Experienced 5G Performance Engineer with 4 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+5G NR, LTE-A, Massive MIMO, KPI Monitoring, Network Performance, Python, Grafana, SQL, Automation
+
+Professional Experience
+5G Performance Engineer at NorthMobile GmbH. Monitored network quality, analyzed performance counters, created dashboards, and supported 5G rollout optimization.
+
+Education
+MSc Communication Systems, TU Hamburg
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+German native, English fluent
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.

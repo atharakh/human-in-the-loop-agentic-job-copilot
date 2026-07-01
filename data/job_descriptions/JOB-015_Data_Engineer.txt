@@ -1,0 +1,28 @@
+Job ID: JOB-015
+
+Job Title: Data Engineer
+Company: Mercedes-Benz Tech Innovation
+Location: Stuttgart, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Mercedes-Benz Tech Innovation is looking for a motivated Data Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Build data pipelines, manage ETL workflows, support analytics platforms, and improve data quality.
+
+Required Skills
+Python, SQL, ETL, Data Pipelines, Cloud, Docker, Spark, Data Modeling
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

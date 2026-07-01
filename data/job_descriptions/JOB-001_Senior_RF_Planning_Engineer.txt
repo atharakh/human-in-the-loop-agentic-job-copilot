@@ -1,0 +1,28 @@
+Job ID: JOB-001
+
+Job Title: Senior RF Planning Engineer
+Company: Nokia Solutions Germany GmbH
+Location: Bonn, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Nokia Solutions Germany GmbH is looking for a motivated Senior RF Planning Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Perform LTE and 5G RF planning, coverage analysis, capacity planning, parameter planning, site modernization support, and technical reporting.
+
+Required Skills
+LTE, 5G NR, RF Planning, Atoll, QGIS, Coverage Planning, Capacity Planning, KPI Analysis, Drive Test Analysis, Python
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

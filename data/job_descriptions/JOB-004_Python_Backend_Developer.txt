@@ -1,0 +1,28 @@
+Job ID: JOB-004
+
+Job Title: Python Backend Developer
+Company: SAP
+Location: Walldorf, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+SAP is looking for a motivated Python Backend Developer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Develop backend APIs, maintain services, write clean Python code, build integrations, and support scalable enterprise applications.
+
+Required Skills
+Python, FastAPI, REST APIs, Git, Docker, PostgreSQL, Unit Testing
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

@@ -1,0 +1,28 @@
+Job ID: JOB-010
+
+Job Title: Business Analyst
+Company: Allianz Technology
+Location: Frankfurt, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Allianz Technology is looking for a motivated Business Analyst to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Gather requirements, model business processes, create user stories, and support digital transformation initiatives.
+
+Required Skills
+Requirements Engineering, BPMN, Process Mapping, Stakeholder Interviews, Jira, Confluence, SQL Basics
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

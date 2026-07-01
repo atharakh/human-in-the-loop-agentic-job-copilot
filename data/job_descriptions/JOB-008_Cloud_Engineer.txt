@@ -1,0 +1,28 @@
+Job ID: JOB-008
+
+Job Title: Cloud Engineer
+Company: Capgemini
+Location: Cologne, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Capgemini is looking for a motivated Cloud Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Support cloud migration projects, manage cloud resources, improve security, and automate infrastructure.
+
+Required Skills
+AWS, Azure, Terraform, Docker, Linux, Networking, Cloud Migration, Monitoring
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

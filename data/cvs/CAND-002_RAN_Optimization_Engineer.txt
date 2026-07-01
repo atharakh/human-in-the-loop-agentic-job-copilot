@@ -1,0 +1,27 @@
+Candidate ID: CAND-002
+
+Sara Müller
+RAN Optimization Engineer
+Location: Düsseldorf, Germany
+Email: sara.mueller@example.com
+
+Professional Summary
+Experienced RAN Optimization Engineer with 6 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+RAN Optimization, LTE, 5G, KPI Analysis, Handover Optimization, Interference Analysis, TEMS, Actix, SQL, Excel
+
+Professional Experience
+RAN Optimization Engineer at ConnectWave AG. Worked on accessibility, retainability, mobility KPIs, dropped call analysis, throughput optimization, and cluster drive test reporting.
+
+Education
+BSc Electrical Engineering, FH Aachen
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+German native, English fluent
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.

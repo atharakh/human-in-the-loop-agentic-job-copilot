@@ -1,0 +1,27 @@
+Candidate ID: CAND-007
+
+Markus Stein
+DevOps Engineer
+Location: Cologne, Germany
+Email: markus.stein@example.com
+
+Professional Summary
+Experienced DevOps Engineer with 7 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+Docker, Kubernetes, CI/CD, GitLab, Linux, Terraform, AWS, Monitoring, Python Scripting
+
+Professional Experience
+Senior DevOps Engineer at CloudOps GmbH. Managed CI/CD pipelines, Kubernetes clusters, cloud infrastructure, and deployment automation.
+
+Education
+BSc Information Technology, University of Cologne
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+German native, English fluent
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.

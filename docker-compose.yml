@@ -1,0 +1,14 @@
+services:
+  job-copilot:
+    build: .
+    container_name: human-in-the-loop-job-copilot
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    restart: unless-stopped
+
+    

@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+openai
+requests
+
+langchain
+langgraph
+langchain-openai
+langchain-ollama
+langchain-community
+
+chromadb
+
+pypdf
+python-docx
+pytest

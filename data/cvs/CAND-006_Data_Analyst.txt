@@ -1,0 +1,27 @@
+Candidate ID: CAND-006
+
+Nadia Becker
+Data Analyst
+Location: Frankfurt, Germany
+Email: nadia.becker@example.com
+
+Professional Summary
+Experienced Data Analyst with 2 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+SQL, Power BI, Excel, Python, Pandas, Data Visualization, Reporting, KPI Dashboards
+
+Professional Experience
+Junior Data Analyst at FinanceData GmbH. Created business dashboards, cleaned datasets, prepared KPI reports, and supported management reporting.
+
+Education
+BSc Business Analytics, Frankfurt University of Applied Sciences
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+German fluent, English fluent
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.

@@ -1,0 +1,723 @@
+[
+    {
+        "job_id": "JOB-TEST-001",
+        "title": "Junior Python Developer",
+        "company": "Demo Company GmbH",
+        "location": "Germany",
+        "required_skills": [
+            "Python",
+            "APIs",
+            "Git"
+        ],
+        "updated_at": "2026-06-26T16:28:37.038219"
+    },
+    {
+        "job_id": "JOB-001",
+        "title": "Senior RF Planning & Optimization Engineer",
+        "company": "Nokia Solutions Germany GmbH",
+        "location": "Bonn, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid (3 days office / 2 days remote)",
+        "description": "Nokia Solutions Germany is looking for an experienced Senior RF Planning & Optimization Engineer to join our Radio Access Network (RAN) team. The successful candidate will be responsible for planning, optimizing, and improving LTE and 5G mobile networks across Germany. The role involves close collaboration with cross-functional engineering teams to ensure excellent network performance, coverage, and customer experience.",
+        "required_skills": [
+            "LTE Radio Network Planning",
+            "5G NR Optimization",
+            "RF Planning",
+            "Coverage Planning",
+            "Capacity Planning",
+            "KPI Analysis",
+            "Drive Test Analysis",
+            "Parameter Optimization",
+            "Atoll",
+            "TEMS Investigation",
+            "MapInfo or QGIS",
+            "Microsoft Excel",
+            "Python",
+            "SQL",
+            "Report Writing",
+            "Problem Solving"
+        ],
+        "preferred_skills": [
+            "AI-assisted Network Optimization",
+            "Automation using Python",
+            "Machine Learning basics",
+            "LangChain",
+            "REST APIs",
+            "Git",
+            "Docker",
+            "Cloud Fundamentals"
+        ],
+        "responsibilities": [
+            "Perform RF planning and optimization for LTE and 5G networks.",
+            "Analyze network KPIs and identify optimization opportunities.",
+            "Conduct coverage and capacity planning.",
+            "Perform parameter optimization for LTE and 5G cells.",
+            "Analyze drive test and MDT data.",
+            "Investigate interference and handover issues.",
+            "Support new site rollout and modernization projects.",
+            "Prepare technical reports and optimization recommendations.",
+            "Collaborate with transmission, core network, and deployment teams.",
+            "Support customer meetings and technical presentations."
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in Telecommunications Engineering, Electrical Engineering, Computer Science, or related field.",
+            "Minimum 5 years of experience in RF Planning and Optimization.",
+            "Experience with LTE, LTE-A, and 5G NR.",
+            "Experience with Atoll planning tool.",
+            "Experience with drive test analysis.",
+            "Excellent analytical and communication skills.",
+            "Fluent English.",
+            "German language is considered an advantage."
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T17:48:50.818908"
+    },
+    {
+        "job_id": "JOB-AUDIT-001",
+        "title": "Python Developer",
+        "company": "Audit Company GmbH",
+        "location": "Germany",
+        "required_skills": [
+            "Python",
+            "Git",
+            "APIs"
+        ],
+        "updated_at": "2026-06-26T21:13:23.160001"
+    },
+    {
+        "job_id": "JOB-001",
+        "title": "Senior RF Planning Engineer",
+        "company": "Nokia Solutions Germany GmbH",
+        "location": "Bonn, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Nokia Solutions Germany GmbH is looking for a motivated Senior RF Planning Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "LTE",
+            "5G NR",
+            "RF Planning",
+            "Atoll",
+            "QGIS",
+            "Coverage Planning",
+            "Capacity Planning",
+            "KPI Analysis",
+            "Drive Test Analysis",
+            "Python"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Perform LTE and 5G RF planning",
+            "Coverage analysis",
+            "Capacity planning",
+            "Parameter planning",
+            "Site modernization support",
+            "Technical reporting"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:08.728636"
+    },
+    {
+        "job_id": "JOB-002",
+        "title": "RAN Optimization Engineer",
+        "company": "Ericsson GmbH",
+        "location": "Düsseldorf, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Ericsson GmbH is looking for a motivated RAN Optimization Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "RAN Optimization",
+            "LTE",
+            "5G",
+            "KPI Analysis",
+            "Handover Optimization",
+            "Interference Analysis",
+            "TEMS",
+            "Actix",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Analyze network KPIs",
+            "Optimize accessibility and retainability",
+            "Investigate dropped calls",
+            "Improve throughput",
+            "Prepare cluster optimization reports"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:13.707437"
+    },
+    {
+        "job_id": "JOB-003",
+        "title": "5G Performance Engineer",
+        "company": "Vodafone Germany",
+        "location": "Düsseldorf, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Vodafone Germany is looking for a motivated 5G Performance Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "5G NR",
+            "LTE-A",
+            "Massive MIMO",
+            "KPI Monitoring",
+            "Network Performance",
+            "Python",
+            "SQL",
+            "Grafana"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Monitor 5G network performance",
+            "analyze counters",
+            "create dashboards",
+            "support rollout optimization",
+            "identify performance bottlenecks"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:18.151241"
+    },
+    {
+        "job_id": "JOB-004",
+        "title": "Python Backend Developer",
+        "company": "SAP",
+        "location": "Walldorf, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "SAP is looking for a motivated Python Backend Developer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Python",
+            "FastAPI",
+            "REST APIs",
+            "Git",
+            "Docker",
+            "PostgreSQL",
+            "Unit Testing"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Develop backend APIs",
+            "maintain services",
+            "write clean Python code",
+            "build integrations",
+            "support scalable enterprise applications"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:25.759990"
+    },
+    {
+        "job_id": "JOB-005",
+        "title": "AI Engineer",
+        "company": "Bosch AI Labs",
+        "location": "Stuttgart, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Bosch AI Labs is looking for a motivated AI Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Python",
+            "LangChain",
+            "LangGraph",
+            "OpenAI API",
+            "RAG",
+            "Vector Databases",
+            "Prompt Engineering",
+            "Docker"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Build LLM applications",
+            "RAG pipelines",
+            "document assistants",
+            "agent workflows",
+            "AI automation prototypes"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:30.850894"
+    },
+    {
+        "job_id": "JOB-006",
+        "title": "Data Analyst",
+        "company": "Siemens",
+        "location": "Munich, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Siemens is looking for a motivated Data Analyst to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "SQL",
+            "Power BI",
+            "Excel",
+            "Python",
+            "Pandas",
+            "Data Visualization",
+            "KPI Dashboards"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Prepare reports",
+            "Build dashboards",
+            "Clean datasets",
+            "Analyze KPIs",
+            "Support business decision-making"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:35.365434"
+    },
+    {
+        "job_id": "JOB-007",
+        "title": "DevOps Engineer",
+        "company": "Amazon Web Services",
+        "location": "Berlin, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Amazon Web Services is looking for a motivated DevOps Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "GitLab",
+            "Linux",
+            "Terraform",
+            "AWS",
+            "Python Scripting"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Manage deployment pipelines",
+            "cloud infrastructure",
+            "Kubernetes clusters",
+            "monitoring",
+            "automation"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:40.414679"
+    },
+    {
+        "job_id": "JOB-008",
+        "title": "Cloud Engineer",
+        "company": "Capgemini",
+        "location": "Cologne, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Capgemini is looking for a motivated Cloud Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "AWS",
+            "Azure",
+            "Terraform",
+            "Docker",
+            "Linux",
+            "Networking",
+            "Cloud Migration",
+            "Monitoring"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Support cloud migration projects",
+            "manage cloud resources",
+            "improve security",
+            "automate infrastructure"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:44.705694"
+    },
+    {
+        "job_id": "JOB-009",
+        "title": "Project Manager",
+        "company": "BMW Group",
+        "location": "Munich, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "BMW Group is looking for a motivated Project Manager to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Project Management",
+            "Agile",
+            "Scrum",
+            "Stakeholder Management",
+            "Risk Management",
+            "Budget Tracking",
+            "Jira"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Lead cross-functional technical projects",
+            "Manage timelines",
+            "Manage budgets",
+            "Manage risks",
+            "Manage stakeholder communication"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:50.529143"
+    },
+    {
+        "job_id": "JOB-010",
+        "title": "Business Analyst",
+        "company": "Allianz Technology",
+        "location": "Frankfurt, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Allianz Technology is looking for a motivated Business Analyst to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Requirements Engineering",
+            "BPMN",
+            "Process Mapping",
+            "Stakeholder Interviews",
+            "Jira",
+            "Confluence",
+            "SQL Basics"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Gather requirements",
+            "model business processes",
+            "create user stories",
+            "support digital transformation initiatives"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:55.221357"
+    },
+    {
+        "job_id": "JOB-011",
+        "title": "HR Specialist",
+        "company": "DHL Group",
+        "location": "Bonn, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "DHL Group is looking for a motivated HR Specialist to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Recruitment",
+            "Employee Onboarding",
+            "HR Administration",
+            "Interview Coordination",
+            "HRIS",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Support recruitment",
+            "onboarding",
+            "employee documentation",
+            "HR process coordination",
+            "internal communication"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:05:59.375368"
+    },
+    {
+        "job_id": "JOB-012",
+        "title": "Technical Recruiter",
+        "company": "Accenture",
+        "location": "Düsseldorf, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Accenture is looking for a motivated Technical Recruiter to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Talent Acquisition",
+            "CV Screening",
+            "LinkedIn Recruiting",
+            "Interview Scheduling",
+            "ATS",
+            "Candidate Communication"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Recruit IT and engineering candidates",
+            "screen profiles",
+            "coordinate interviews",
+            "maintain ATS records"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:06:04.012801"
+    },
+    {
+        "job_id": "JOB-013",
+        "title": "AI Consultant",
+        "company": "IBM Consulting",
+        "location": "Hamburg, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "IBM Consulting is looking for a motivated AI Consultant to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "AI Strategy",
+            "Python",
+            "LLMs",
+            "RAG",
+            "Prompt Engineering",
+            "Client Workshops",
+            "Cloud AI"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Advise clients on AI adoption",
+            "Build prototypes",
+            "Prepare technical workshops",
+            "Support AI transformation projects"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:06:09.285409"
+    },
+    {
+        "job_id": "JOB-014",
+        "title": "Network Automation Engineer",
+        "company": "Deutsche Telekom",
+        "location": "Bonn, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Deutsche Telekom is looking for a motivated Network Automation Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Python",
+            "REST APIs",
+            "Network Automation",
+            "LTE",
+            "5G",
+            "SQL",
+            "Git",
+            "Docker"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Automate network operations",
+            "build scripts",
+            "integrate APIs",
+            "support telecom engineering teams",
+            "improve workflow efficiency"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:06:13.873446"
+    },
+    {
+        "job_id": "JOB-015",
+        "title": "Data Engineer",
+        "company": "Mercedes-Benz Tech Innovation",
+        "location": "Stuttgart, Germany",
+        "employment_type": "Full-Time",
+        "remote_option": "Hybrid",
+        "description": "Mercedes-Benz Tech Innovation is looking for a motivated Data Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.",
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Data Pipelines",
+            "Cloud",
+            "Docker",
+            "Spark",
+            "Data Modeling"
+        ],
+        "preferred_skills": [
+            "Python automation",
+            "documentation",
+            "stakeholder communication",
+            "agile working methods",
+            "experience in multicultural project environments"
+        ],
+        "responsibilities": [
+            "Build data pipelines",
+            "Manage ETL workflows",
+            "Support analytics platforms",
+            "Improve data quality"
+        ],
+        "qualifications": [
+            "Bachelor's or Master's degree in a relevant field",
+            "Relevant professional experience in the target role",
+            "Strong analytical and communication skills",
+            "Fluent English",
+            "German language skills are an advantage"
+        ],
+        "source": "Manual Input",
+        "url": "",
+        "updated_at": "2026-06-26T22:06:18.347087"
+    }
+]

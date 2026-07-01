@@ -1,0 +1,28 @@
+Job ID: JOB-014
+
+Job Title: Network Automation Engineer
+Company: Deutsche Telekom
+Location: Bonn, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Deutsche Telekom is looking for a motivated Network Automation Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Automate network operations, build scripts, integrate APIs, support telecom engineering teams, and improve workflow efficiency.
+
+Required Skills
+Python, REST APIs, Network Automation, LTE, 5G, SQL, Git, Docker
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

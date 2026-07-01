@@ -1,0 +1,28 @@
+Job ID: JOB-013
+
+Job Title: AI Consultant
+Company: IBM Consulting
+Location: Hamburg, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+IBM Consulting is looking for a motivated AI Consultant to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Advise clients on AI adoption, build prototypes, prepare technical workshops, and support AI transformation projects.
+
+Required Skills
+AI Strategy, Python, LLMs, RAG, Prompt Engineering, Client Workshops, Cloud AI
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

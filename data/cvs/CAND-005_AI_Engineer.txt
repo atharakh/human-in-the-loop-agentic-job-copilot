@@ -1,0 +1,27 @@
+Candidate ID: CAND-005
+
+David Schneider
+AI Engineer
+Location: Munich, Germany
+Email: david.schneider@example.com
+
+Professional Summary
+Experienced AI Engineer with 4 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+Python, LangChain, LangGraph, OpenAI API, RAG, Vector Databases, Prompt Engineering, Machine Learning, Docker
+
+Professional Experience
+AI Engineer at Applied Intelligence GmbH. Built LLM-based assistants, RAG pipelines, document processing workflows, and automation tools for business teams.
+
+Education
+MSc Artificial Intelligence, TU Munich
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+German native, English fluent
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.

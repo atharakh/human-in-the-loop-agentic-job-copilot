@@ -1,0 +1,28 @@
+Job ID: JOB-002
+
+Job Title: RAN Optimization Engineer
+Company: Ericsson GmbH
+Location: Düsseldorf, Germany
+Employment Type: Full-Time
+Work Model: Hybrid
+
+About the Role
+Ericsson GmbH is looking for a motivated RAN Optimization Engineer to join our professional team in Germany. The role requires strong technical skills, analytical thinking, communication skills, and the ability to work in international teams.
+
+Key Responsibilities
+Analyze network KPIs, optimize accessibility and retainability, investigate dropped calls, improve throughput, and prepare cluster optimization reports.
+
+Required Skills
+RAN Optimization, LTE, 5G, KPI Analysis, Handover Optimization, Interference Analysis, TEMS, Actix, SQL
+
+Preferred Skills
+Python automation, documentation, stakeholder communication, agile working methods, and experience in multicultural project environments.
+
+Qualifications
+Bachelor's or Master's degree in a relevant field.
+Relevant professional experience in the target role.
+Strong analytical and communication skills.
+Fluent English. German language skills are an advantage.
+
+Benefits
+Competitive salary, hybrid work, flexible working hours, training budget, modern office environment, and international projects.

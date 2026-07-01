@@ -1,0 +1,820 @@
+[
+    {
+        "candidate_id": "CAND-TEST-001",
+        "name": "Test Candidate",
+        "target_role": "Python Developer",
+        "location": "Bonn, Germany",
+        "skills": [
+            "Python",
+            "Streamlit",
+            "LangChain"
+        ],
+        "updated_at": "2026-06-26T16:28:37.034807"
+    },
+    {
+        "candidate_id": "",
+        "full_name": "MUHAMMAD ATHAR",
+        "target_role": "RAN Planning Consultant",
+        "location": "Bonn, Germany",
+        "email": "athar.akh@gmail.com",
+        "phone": "+49 174 7883277",
+        "summary": "To hone my talent in a manner that they not only serve the best of the organization and employer, but are also in tandem with its policies and grows with the organization.",
+        "skills": [
+            "PRS",
+            "ATOLL",
+            "Pegaplan",
+            "Pegabase",
+            "U2000",
+            "Tems Investigation",
+            "Tems Pocket",
+            "Actix Analyzer",
+            "Mapino",
+            "Project Management",
+            "Adaptability",
+            "Communication Skills",
+            "Handling pressure",
+            "Leadership Qualities",
+            "Troubleshooter",
+            "Good Communication Skills",
+            "Keen observer and quick learner"
+        ],
+        "experience_years": 11,
+        "work_experience": [
+            {
+                "job_title": "RAN Planning Consultant",
+                "company": "ORBIT IT-Solutions",
+                "location": "",
+                "start_date": "Jan 2023",
+                "end_date": "Present",
+                "responsibilities": [
+                    "Evaluating site data design verification.",
+                    "Updating site data as per design documentation.",
+                    "Verification of site parameters as per Deutsche Telekom standard.",
+                    "Planning sites to satisfy coverage demands.",
+                    "Evaluating site design documents.",
+                    "Analysing coverage of planned sites to improve coverage and throughput estimations.",
+                    "Preparing project update report for customer discussion.",
+                    "Supported DT group by managing ATOLL database for the DT branches throughout Europe."
+                ]
+            },
+            {
+                "job_title": "2G/3G/LTE Planning/Optimization",
+                "company": "Huawei Ufone Roll-Out/MBB Project/USF Projects",
+                "location": "",
+                "start_date": "Dec 2016",
+                "end_date": "Nov 2022",
+                "responsibilities": [
+                    "Carrying out weekly audit for analyzing project work.",
+                    "Performing 2G/3G/LTE parametric tuning for maintaining KPI above threshold.",
+                    "Hold meeting with customer for SSV/Project PAC submissions.",
+                    "Project progress reporting, time analysis, and final delivery report preparation.",
+                    "Responsible for planning 3G sector split activity, physical and parametric optimization.",
+                    "Performing initial 2G/3G/LTE optimization after launch.",
+                    "Managing database.",
+                    "Monitoring network performance KPI’s and escalating performance issues.",
+                    "Performing worst cell analysis, and performing parametric tuning and physical changes to improve KPI’s.",
+                    "Planning new 2G, 3G, and LTE sites.",
+                    "Performing NBR analysis, coverage analysis during planning."
+                ]
+            },
+            {
+                "job_title": "RNP/O 2G/3G/LTE",
+                "company": "LCC (Mobilink Internal Project Huawei/ZTE)",
+                "location": "",
+                "start_date": "Aug 2015",
+                "end_date": "Nov 2016",
+                "responsibilities": [
+                    "Assisting team in generating KPI reports after changes in the network.",
+                    "Monitoring cluster worst cells for degradation, picking out top worst cells, and performing analysis and recommending changes in the particulars for improvement.",
+                    "Assisting team to keep database updated, and preparing tracker to be shared within team for smooth operation.",
+                    "Generating traffic report to be shared with the Sales/Marketing team.",
+                    "Responsible for generating Worst Cell reports in the assigned Cluster.",
+                    "Assisting team in generating traffic and availability reports to improve availability in the dense populated areas.",
+                    "Analyzing DT log-files for issues.",
+                    "Analysis of PAC reports submitted, and highlighting issues if found."
+                ]
+            },
+            {
+                "job_title": "RNO Engineer 2G and 3G",
+                "company": "LCC (Mobilink Swap Project ZTE)",
+                "location": "",
+                "start_date": "March 2015",
+                "end_date": "July 2015",
+                "responsibilities": [
+                    "Performing physical changes after swap, to improve cells performance.",
+                    "Generating KPI reports of new swapped sites to be shared with the management.",
+                    "Performing KPI analysis of newly swapped sites for smooth operation.",
+                    "Preparing PAC report to be submitted to the operator for acceptance.",
+                    "Analysis of Cluster drive test after swap to evaluate Quality, Coverage, Throughput and Interference in the network.",
+                    "Analysis of initial drive-test Site level to identify Swap, low power TRX, Coverage/Quality issues, Low throughput issues.",
+                    "Responsible for making KPI Benchmark report for Customers approval.",
+                    "Analysis of Pre and Post Cluster Drive-Test data for evaluating results after swap in the network.",
+                    "Submitting PAC reports to the customer for approval.",
+                    "Responsible for Co-Ordination with the DT/BSS team during swap activities."
+                ]
+            },
+            {
+                "job_title": "RF Engineer 2G, 3G, and LTE",
+                "company": "AircomIntl (Etisalat MS Project)",
+                "location": "",
+                "start_date": "Aug 2014",
+                "end_date": "Feb 2015",
+                "responsibilities": [
+                    "Monitoring dashboards for 3G/LTE KPI degradation, and reporting in case of any issues.",
+                    "Analyzing and processing data collected by drive-test team.",
+                    "Finding the poor coverage, Call drop, Call setup time, CSSR, CDR, HOSR, extract SQI, RxLev, RSCP, EcNo, CQI, RSRQ and RSRP samples.",
+                    "Analyzing LTE serving PCI’s, Throughput on the cells.",
+                    "Analyzing RSRP and RSRQ for coverage monitoring.",
+                    "In-building LTE coverage issues and low throughput issues.",
+                    "Providing Indoor Coverage solutions for customers, and managing Walk-Test, and analyzing data for proper solutions.",
+                    "Using Mapinfo and Actix for reporting and analysis of data collected by DT Engineers of the walk-test.",
+                    "Using Actix, and Mapinfo for analyzing the drive test data for fault analysis.",
+                    "Analysis of Pilot Pollution on Actix, and proposing Neighbor modifications to resolve the issue."
+                ]
+            },
+            {
+                "job_title": "RF Engineer 2G and 3G",
+                "company": "LCC (Huawei Roll-out Project)",
+                "location": "",
+                "start_date": "Jan 2012",
+                "end_date": "Jul 2014",
+                "responsibilities": [
+                    "Responsible for carrying out Site Surveys, for modernizing the physical parameters of the cell-site.",
+                    "Cluster Drive-Test Reporting, both before and after swap.",
+                    "Training new individuals to perform Drive-Test.",
+                    "Making Drive-Test analysis report.",
+                    "Collecting Drive-Test data.",
+                    "Analyzing the data recorded during the drive-test.",
+                    "Identifying reasons for handover failures.",
+                    "Cell dragging.",
+                    "Overshooting issues from other cell sites.",
+                    "Coverage issues.",
+                    "Bad quality on site.",
+                    "Interference from other cell sites.",
+                    "Dropped call reasons.",
+                    "Analyzing the log files and drive-test results.",
+                    "Performing Drive Test of new Roll-Out sites.",
+                    "Performing DT Reporting of the sites, analyzing issues, and proposing changes for their resolution.",
+                    "Performing HBA on different cell sites to reduce the interference issues in a cluster, and meet coverage requirements of the customer.",
+                    "Training new individuals to perform 2G/3G Drive-Test."
+                ]
+            },
+            {
+                "job_title": "Intern",
+                "company": "Mobilink Operations Department (OAN)",
+                "location": "",
+                "start_date": "June 2010",
+                "end_date": "August 2010",
+                "responsibilities": [
+                    "Analyzing the working status of the equipment’s installed on cell sites both Motorola and Alcatel.",
+                    "Using Site-Master for observing the current settings of the installed equipment.",
+                    "Making detailed reports of the issues resolved.",
+                    "Updating record of the alarms generated on the cell sites.",
+                    "Monitoring the alarms generated on the cell site.",
+                    "Alarms on radios.",
+                    "Power failure alarms."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BS Telecommunications",
+                "institution": "FAST-NUCES",
+                "year": "2011"
+            },
+            {
+                "degree": "H.S.C. (Pre-Engineering)",
+                "institution": "Bahria College Karsaz",
+                "year": "2007"
+            },
+            {
+                "degree": "S. S. C. Science",
+                "institution": "Pakistan Islamia Higher Secondary School",
+                "year": "2005"
+            }
+        ],
+        "certifications": [],
+        "languages": [],
+        "updated_at": "2026-06-26T17:32:04.516466"
+    },
+    {
+        "candidate_id": "CAND-AUDIT-001",
+        "full_name": "Audit Candidate",
+        "target_role": "Python Developer",
+        "location": "Bonn, Germany",
+        "skills": [
+            "Python",
+            "Streamlit",
+            "LangChain"
+        ],
+        "experience_years": 2,
+        "updated_at": "2026-06-26T21:13:23.137679"
+    },
+    {
+        "candidate_id": "CAND-001",
+        "full_name": "Aamir Khan",
+        "target_role": "RF Planning Engineer",
+        "location": "Bonn, Germany",
+        "email": "aamir.khan@example.com",
+        "phone": "",
+        "summary": "Experienced RF Planning Engineer with 8 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "LTE",
+            "5G NR",
+            "RF Planning",
+            "Atoll",
+            "QGIS",
+            "Coverage Planning",
+            "Capacity Planning",
+            "KPI Analysis",
+            "Drive Test Analysis",
+            "Python"
+        ],
+        "experience_years": 8,
+        "work_experience": [
+            {
+                "job_title": "Senior RF Planning Engineer",
+                "company": "TelNet Solutions GmbH",
+                "location": "Cologne",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Responsible for LTE and 5G radio planning",
+                    "Site design",
+                    "Coverage prediction",
+                    "Parameter planning",
+                    "Network modernization projects"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MSc Telecommunications Engineering",
+                "institution": "University of Stuttgart",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "English fluent",
+            "German B1"
+        ],
+        "updated_at": "2026-06-26T22:04:04.687408"
+    },
+    {
+        "candidate_id": "CAND-002",
+        "full_name": "Sara Müller",
+        "target_role": "RAN Optimization Engineer",
+        "location": "Düsseldorf, Germany",
+        "email": "sara.mueller@example.com",
+        "phone": "",
+        "summary": "Experienced RAN Optimization Engineer with 6 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "RAN Optimization",
+            "LTE",
+            "5G",
+            "KPI Analysis",
+            "Handover Optimization",
+            "Interference Analysis",
+            "TEMS",
+            "Actix",
+            "SQL",
+            "Excel"
+        ],
+        "experience_years": 6,
+        "work_experience": [
+            {
+                "job_title": "RAN Optimization Engineer",
+                "company": "ConnectWave AG",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Worked on accessibility, retainability, mobility KPIs",
+                    "Dropped call analysis",
+                    "Throughput optimization",
+                    "Cluster drive test reporting"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BSc Electrical Engineering",
+                "institution": "FH Aachen",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:12.735043"
+    },
+    {
+        "candidate_id": "CAND-003",
+        "full_name": "Jonas Weber",
+        "target_role": "5G Performance Engineer",
+        "location": "Hamburg, Germany",
+        "email": "jonas.weber@example.com",
+        "phone": "",
+        "summary": "Experienced 5G Performance Engineer with 4 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "5G NR",
+            "LTE-A",
+            "Massive MIMO",
+            "KPI Monitoring",
+            "Network Performance",
+            "Python",
+            "Grafana",
+            "SQL",
+            "Automation"
+        ],
+        "experience_years": 4,
+        "work_experience": [
+            {
+                "job_title": "5G Performance Engineer",
+                "company": "NorthMobile GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Monitored network quality",
+                    "Analyzed performance counters",
+                    "Created dashboards",
+                    "Supported 5G rollout optimization"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MSc Communication Systems",
+                "institution": "TU Hamburg",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:17.541289"
+    },
+    {
+        "candidate_id": "CAND-004",
+        "full_name": "Elena Rossi",
+        "target_role": "Python Developer",
+        "location": "Berlin, Germany",
+        "email": "elena.rossi@example.com",
+        "phone": "",
+        "summary": "Experienced Python Developer with 3 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Django",
+            "REST APIs",
+            "Git",
+            "Docker",
+            "PostgreSQL",
+            "Streamlit",
+            "Unit Testing"
+        ],
+        "experience_years": 3,
+        "work_experience": [
+            {
+                "job_title": "Python Backend Developer",
+                "company": "SoftCore Labs",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Developed REST APIs",
+                    "Created internal dashboards",
+                    "Automated scripts",
+                    "Managed backend integrations for enterprise applications"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BSc Computer Science",
+                "institution": "University of Bologna",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "English fluent",
+            "German A2",
+            "Italian native"
+        ],
+        "updated_at": "2026-06-26T22:04:25.369744"
+    },
+    {
+        "candidate_id": "CAND-005",
+        "full_name": "David Schneider",
+        "target_role": "AI Engineer",
+        "location": "Munich, Germany",
+        "email": "david.schneider@example.com",
+        "phone": "",
+        "summary": "Experienced AI Engineer with 4 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Python",
+            "LangChain",
+            "LangGraph",
+            "OpenAI API",
+            "RAG",
+            "Vector Databases",
+            "Prompt Engineering",
+            "Machine Learning",
+            "Docker"
+        ],
+        "experience_years": 4,
+        "work_experience": [
+            {
+                "job_title": "AI Engineer",
+                "company": "Applied Intelligence GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Built LLM-based assistants",
+                    "RAG pipelines",
+                    "Document processing workflows",
+                    "Automation tools for business teams"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MSc Artificial Intelligence",
+                "institution": "TU Munich",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:30.408792"
+    },
+    {
+        "candidate_id": "CAND-006",
+        "full_name": "Nadia Becker",
+        "target_role": "Data Analyst",
+        "location": "Frankfurt, Germany",
+        "email": "nadia.becker@example.com",
+        "phone": "",
+        "summary": "Experienced Data Analyst with 2 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "SQL",
+            "Power BI",
+            "Excel",
+            "Python",
+            "Pandas",
+            "Data Visualization",
+            "Reporting",
+            "KPI Dashboards"
+        ],
+        "experience_years": 2,
+        "work_experience": [
+            {
+                "job_title": "Junior Data Analyst",
+                "company": "FinanceData GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Created business dashboards",
+                    "Cleaned datasets",
+                    "Prepared KPI reports",
+                    "Supported management reporting"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BSc Business Analytics",
+                "institution": "Frankfurt University of Applied Sciences",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German fluent",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:34.956830"
+    },
+    {
+        "candidate_id": "CAND-007",
+        "full_name": "Markus Stein",
+        "target_role": "DevOps Engineer",
+        "location": "Cologne, Germany",
+        "email": "markus.stein@example.com",
+        "phone": "",
+        "summary": "Experienced DevOps Engineer with 7 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "GitLab",
+            "Linux",
+            "Terraform",
+            "AWS",
+            "Monitoring",
+            "Python Scripting"
+        ],
+        "experience_years": 7,
+        "work_experience": [
+            {
+                "job_title": "Senior DevOps Engineer",
+                "company": "CloudOps GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Managed CI/CD pipelines",
+                    "Managed Kubernetes clusters",
+                    "Managed cloud infrastructure",
+                    "Managed deployment automation"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BSc Information Technology",
+                "institution": "University of Cologne",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:40.169626"
+    },
+    {
+        "candidate_id": "CAND-008",
+        "full_name": "Fatima Ali",
+        "target_role": "Cloud Engineer",
+        "location": "Bonn, Germany",
+        "email": "fatima.ali@example.com",
+        "phone": "",
+        "summary": "Experienced Cloud Engineer with 5 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Cloud Migration",
+            "Terraform",
+            "Docker",
+            "Linux",
+            "Networking",
+            "Security Basics",
+            "Monitoring"
+        ],
+        "experience_years": 5,
+        "work_experience": [
+            {
+                "job_title": "Cloud Engineer",
+                "company": "RheinCloud Services",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Supported cloud migration projects",
+                    "Managed infrastructure as code",
+                    "Improved cloud security and monitoring"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MSc Information Systems",
+                "institution": "University of Bonn",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "English fluent",
+            "German B1"
+        ],
+        "updated_at": "2026-06-26T22:04:44.661156"
+    },
+    {
+        "candidate_id": "CAND-009",
+        "full_name": "Thomas Fischer",
+        "target_role": "Project Manager",
+        "location": "Dortmund, Germany",
+        "email": "thomas.fischer@example.com",
+        "phone": "",
+        "summary": "Experienced Project Manager with 9 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Project Management",
+            "Agile",
+            "Scrum",
+            "Stakeholder Management",
+            "Risk Management",
+            "Budget Tracking",
+            "Jira",
+            "Confluence"
+        ],
+        "experience_years": 9,
+        "work_experience": [
+            {
+                "job_title": "Project Manager",
+                "company": "IndustrialTech GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Led cross-functional IT and telecom projects",
+                    "Managed timelines, budgets, risks, and stakeholder communication"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MBA Project Management",
+                "institution": "Cologne Business School",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:49.534107"
+    },
+    {
+        "candidate_id": "CAND-010",
+        "full_name": "Laura Schmidt",
+        "target_role": "Business Analyst",
+        "location": "Essen, Germany",
+        "email": "laura.schmidt@example.com",
+        "phone": "",
+        "summary": "Experienced Business Analyst with 5 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Requirements Engineering",
+            "BPMN",
+            "Process Mapping",
+            "Stakeholder Interviews",
+            "Jira",
+            "Confluence",
+            "Excel",
+            "SQL Basics"
+        ],
+        "experience_years": 5,
+        "work_experience": [
+            {
+                "job_title": "Business Analyst",
+                "company": "ProcessWorks GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Gathered requirements",
+                    "Modeled business processes",
+                    "Supported digital transformation projects",
+                    "Prepared user stories"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "MSc Business Information Systems",
+                "institution": "University of Duisburg-Essen",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:04:54.243104"
+    },
+    {
+        "candidate_id": "CAND-011",
+        "full_name": "Mariam Yilmaz",
+        "target_role": "HR Specialist",
+        "location": "Bremen, Germany",
+        "email": "mariam.yilmaz@example.com",
+        "phone": "",
+        "summary": "Experienced HR Specialist with 6 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Recruitment",
+            "Employee Onboarding",
+            "HR Administration",
+            "Interview Coordination",
+            "German Labor Law Basics",
+            "MS Office",
+            "HRIS"
+        ],
+        "experience_years": 6,
+        "work_experience": [
+            {
+                "job_title": "HR Specialist",
+                "company": "PeopleFirst GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Managed recruitment coordination",
+                    "Onboarding",
+                    "Employee records",
+                    "HR process documentation"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BA Human Resource Management",
+                "institution": "Hochschule Bremen",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German fluent",
+            "English fluent",
+            "Turkish native"
+        ],
+        "updated_at": "2026-06-26T22:04:59.353064"
+    },
+    {
+        "candidate_id": "CAND-012",
+        "full_name": "Oliver Neumann",
+        "target_role": "Recruiter",
+        "location": "Stuttgart, Germany",
+        "email": "oliver.neumann@example.com",
+        "phone": "",
+        "summary": "Experienced Recruiter with 4 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.",
+        "skills": [
+            "Talent Acquisition",
+            "CV Screening",
+            "LinkedIn Recruiting",
+            "Interview Scheduling",
+            "Candidate Communication",
+            "ATS",
+            "Employer Branding"
+        ],
+        "experience_years": 4,
+        "work_experience": [
+            {
+                "job_title": "Technical Recruiter",
+                "company": "TalentBridge GmbH",
+                "location": "",
+                "start_date": "",
+                "end_date": "",
+                "responsibilities": [
+                    "Recruited IT and engineering candidates",
+                    "Screened CVs",
+                    "Coordinated interviews",
+                    "Maintained ATS records"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "BA Business Administration",
+                "institution": "University of Stuttgart",
+                "year": ""
+            }
+        ],
+        "certifications": [
+            "Relevant professional trainings and internal company certifications related to the target role."
+        ],
+        "languages": [
+            "German native",
+            "English fluent"
+        ],
+        "updated_at": "2026-06-26T22:05:03.550798"
+    }
+]

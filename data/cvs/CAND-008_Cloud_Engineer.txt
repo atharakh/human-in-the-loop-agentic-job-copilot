@@ -1,0 +1,27 @@
+Candidate ID: CAND-008
+
+Fatima Ali
+Cloud Engineer
+Location: Bonn, Germany
+Email: fatima.ali@example.com
+
+Professional Summary
+Experienced Cloud Engineer with 5 years of professional experience. Strong background in technical analysis, stakeholder communication, structured reporting, and practical problem solving. Looking for a challenging role in Germany or remote within Europe.
+
+Core Skills
+AWS, Azure, Cloud Migration, Terraform, Docker, Linux, Networking, Security Basics, Monitoring
+
+Professional Experience
+Cloud Engineer at RheinCloud Services. Supported cloud migration projects, managed infrastructure as code, and improved cloud security and monitoring.
+
+Education
+MSc Information Systems, University of Bonn
+
+Certifications
+Relevant professional trainings and internal company certifications related to the target role.
+
+Languages
+English fluent, German B1
+
+Additional Information
+Available for hybrid or remote work. Open to international and multicultural teams.
